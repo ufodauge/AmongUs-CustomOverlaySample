@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+}
+
+body .container .debug {
+  display: none;
+}
+
+body .container .map-image {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+body .container .map-image img {
+  max-width: 440px;
+  height: auto;
+  -webkit-filter: opacity(70%);
+          filter: opacity(70%);
+}
+
+body .container .roomcode-curtain {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body .container .roomcode-curtain img {
+  position: absolute;
+  bottom: 70px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body .container .entercode-curtain {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body .container .entercode-curtain img {
+  position: absolute;
+  bottom: 40px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*# sourceMappingURL=index.css.map */
