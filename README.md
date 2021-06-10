@@ -1,2 +1,7 @@
 # AmongUs-CustomOverlaySample
-Custom Browser Overlay for Among Us
+
+OBS などで使える AmongUs 用のブラウザオーバーレイ
+
+## 使い方
+
+あとでかく！
